@@ -1,0 +1,3 @@
+Title: Bot Relay Events
+Author: The CityRPG 4 Team
+Adds the events fireBotRelay and onBotRelay to assist in eventing hole bots.
